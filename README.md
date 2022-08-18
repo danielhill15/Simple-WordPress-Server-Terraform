@@ -1,4 +1,4 @@
-## HiveWatch Interview Coding Problem
+## Interview Coding Problem
 
 ### Overview
 
